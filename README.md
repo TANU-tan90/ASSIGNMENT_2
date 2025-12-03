@@ -12,6 +12,9 @@ Modifications -
 Score System, Lives System (Game continues after collision), Difficulty increase.
 
 This is the game analysis from my side that how game works internally,covering all the major points.
+
 I took it as an activity to modify it by adding everything I could to make it more efficient so the initial some loops formatting and other commands were slighty changed to maintain its rhythym with the existing as well as the new modified version of it.
+
 The game is a simple animation in the console using loops and conditions. It helps me understand basic game logic, random numbers, keyboard input, and collision detection.
+
 Hope you enjoy playing it with now added features :) !!! Thanks
